@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cultist Clicker",
+"dataUrl": "build_v1.1.3_Alternative.data.unityweb",
+"asmCodeUrl": "build_v1.1.3_Alternative.asm.code.unityweb",
+"asmMemoryUrl": "build_v1.1.3_Alternative.asm.memory.unityweb",
+"asmFrameworkUrl": "build_v1.1.3_Alternative.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
